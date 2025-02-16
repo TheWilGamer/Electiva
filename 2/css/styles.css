@@ -1,0 +1,34 @@
+body{
+    background-color:rgba(17, 22, 97, 0.815);
+    font-family: 'Roboto', sans-serif;
+    color: white;
+}
+header {
+    margin-bottom: 40px; 
+    text-align: center;
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+article {
+    margin-top: 40px; 
+    margin-bottom: 40px; 
+}
+
+#container {
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 20px;
+    box-sizing: border-box;
+}
+
+footer {
+font-color: white;
+    text-align: center;
+}
+
+article img {
+    width: 100%; 
+    height: auto; 
+    max-width: 300px; 
+}
